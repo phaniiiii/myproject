@@ -115,7 +115,7 @@
           wherever such third-party notices normally appear. The contents
           of the NOTICE file are for informational purposes only and
 
-testing automation
+
           do not modify the License. You may add Your own attribution
           notices within Derivative Works that You distribute, alongside
           or as an addendum to the NOTICE text from the Work, provided
@@ -176,3 +176,4 @@ testing automation
       of your accepting any such warranty or additional liability.
 
 	END OF TERMS AND CONDITIONS
+Testing the automation
